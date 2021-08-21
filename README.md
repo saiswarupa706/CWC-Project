@@ -9,7 +9,8 @@ Technologies Used : HTML and CSS
 Steps to Run this tribute page : It can  be viewed using VS Code . Supported Browsers are : Google Chrome,Microsoft Edge,Firefox,Opera,Safari. By clicking on the wikepedia ,                                        Instagram or Twitter present under each player you would be redirected to the respective links.
 
 Credits : A few sites like GeekforGeeks, W3Schools , Wikipedia , Youtube had been really useful for the completion of this tribute page .
-Conclusion: This project will help to be informative to people as they would be able to know more about this players.It will also be a source of inspiration to millions of                     youngsters to take interest in sports and participate in them . It will inculcate a feeling of a good sportsmanship in them. 
+
+ Conclusion: This project will help to be informative to people as they would be able to know more about this players.It will also be a source of inspiration to millions of                     youngsters to take interest in sports and participate in them . It will inculcate a feeling of a good sportsmanship in them. 
 
  
 
